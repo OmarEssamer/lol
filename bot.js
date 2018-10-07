@@ -21,7 +21,7 @@ var fs = require('fs');
 
 client.on('ready', function(){ // Leaked by [ @Fr3on Gamer#9338 ]
     var ms = 30000 ;
-    var setGame = [`King Community `,` King Bot By Fr3on Gamer#9338 !`];
+    var setGame = [`Tweety PRO`];
     var i = -1;
     var j = 0;
     setInterval(function (){
@@ -779,7 +779,7 @@ aa.on("collect", r => {
  .setThumbnail(msg.author.avatarURL)
  .setTitle(`Welcome To ${msg.guild.name}`)
           .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
-  .setURL('https://discordapp.com/api/oauth2/authorize?client_id=498254846819041287&permissions=8&scope=bot')
+  .setURL('https://discordapp.com/api/oauth2/authorize?client_id=478535669346730008&permissions=8&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fomartetohhh&scope=bot')
 .setDescription(`**:earth_americas:  General Commends**\n${prefix}**server - لعرض معلومات عن سيرفرك**\n${prefix}**roll - القرعة**\n${prefix}**ms7f - فتح المصحف**\n${prefix}**invites - لرؤية دعواتك**\n${prefix}**skin - رؤية سكنك بماين كرافت**\n$**avatar [user] - لعرض صورتك او صوره شخص**\n$**system-sar7 - لمعرفة نظام امر صراحة**\n$**tC - لانشاء رومات مؤقتة**\n$**user - معلومات عن حسابك**\n$**mb - معلومات عن الاعضاء**\n$**icon - لاظهار صورة سيرفرك**\n$**tr - لترجمة اي شي تقولة **\n$**cal - لتشغيل الألة الحاسبة**`)
 
  .setTimestamp()
@@ -793,7 +793,7 @@ mm.on("collect", r => {
  .setThumbnail(msg.author.avatarURL)
  .setTitle(`Welcome To ${msg.guild.name}`)
            .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
-  .setURL('https://discordapp.com/api/oauth2/authorize?client_id=498254846819041287&permissions=8&scope=bot')
+  .setURL('https://discordapp.com/api/oauth2/authorize?client_id=478535669346730008&permissions=8&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fomartetohhh&scope=bot')
 .setDescription(`** :wrench: Admins Commends** \n$**system-man3 - لمعرفة كيفيه تفعيل نظام منع التهكير لسيرفرك**\n${prefix}**mute - لعمل ميوت للعضو**\n${prefix}**unmute لفك الميوت عن  العضو**\n${prefix}**bc - الرساله الجماعيه**\n${prefix}**ban - أمر الباند**\n**$kick - أمر الكيك**\n${prefix}**cc [number] - لصنع رتب الوان باختيار عدد**\n${prefix}**dc - لحذف جميع رتب الالوان فقط**\n**$clear - لمسح الشات**\n$**role [mention] [rolename] - لاعطاء شخص رتبة**\n$**rerole [user] [rolename] - لازالة رتبة من شخص**\n$**move [user] - لنقل شخص من روم صوتي لرومك**\n$**move all - لنقل جميع المتواجدين بـ الرومات لرومك**\n$**mct - لقفل جميع الرومات الكتابية**\n$**umct - لفتح جميع الرومات الكتابية**\n$**mcv - لقفل جميع الرومات الصوتية**\n$**umcv - لفتح جميع الرومات الصوتية**`)
 
 .setTimestamp()
@@ -806,9 +806,9 @@ vv.on("collect", r => {
  .setThumbnail(msg.author.avatarURL)
  .setTitle(`Welcome To ${msg.guild.name}`)
            .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
-  .setURL('https://discordapp.com/api/oauth2/authorize?client_id=498254846819041287&permissions=8&scope=bot')
+  .setURL('https://discordapp.com/api/oauth2/authorize?client_id=478535669346730008&permissions=8&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fomartetohhh&scope=bot')
 .setDescription(`**' King Bot Discord.\n$help - لرؤية الأوامر :comet: \n$inv - لدعوة البوت :wine_glass: \n معلومات عن البوت :thinking: \n بوت ديسكورت متكامل :soccer: :microphone: :earth_americas: \nيوجد داخل البوت خاصية منع التهكير مجانا وبسهوله تامة :scream: \nصيانة دورية :stopwatch: :wrench: \n 24 ساعة :point_up:
- \nاضافات يومية :link: \n الدعم الفني للمساعدةة : https://discord.gg/QfB8p2S  :rose:  \n وشكرا لكم :lizard: **`)
+ \nاضافات يومية :link: \n الدعم الفني للمساعدةة : https://discord.gg/hPVHAxK  :rose:  \n وشكرا لكم :lizard: **`)
 
 
  .setTimestamp()
