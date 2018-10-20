@@ -550,7 +550,7 @@ Server support: https://discord.gg/Q767trZ
 
 ==================================================================
 
-bot invite link: https://discordapp.com/api/oauth2/authorize?client_id=478535669346730008&permissions=8&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fomartetohhh&scope=bot
+bot invite link: https://discordapp.com/api/oauth2/authorize?client_id=503225122912731147&permissions=0&scope=bot
 
 ==================================================================
 
