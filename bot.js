@@ -13,8 +13,6 @@ client.on('message', msg => {
   }
 });
 
-client.login(process.env.BOT_TOKEN);
-
 client.on('guildMemberAdd', member => {
     var embed = new Discord.RichEmbed()
     .setAuthor(member.user.username, member.user.avatarURL)
@@ -629,3 +627,5 @@ client.on("message", (message) => {
     }
  
 });
+
+client.login(process.env.BOT_TOKEN);
